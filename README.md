@@ -2,5 +2,5 @@ Terabase Studios is a one-person studio building reliable, problem-solving tools
 
 I focus on software that’s easy to use, dependable, and designed to fix problems without creating new ones.
 
-Questions or feedback? Reach me at terabasestudios@gmail.com
+Questions or feedback? Reach me at support@terabasestudios.com
  — happy to help.
